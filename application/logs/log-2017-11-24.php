@@ -1,0 +1,121 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-11-24 15:56:15 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 15:56:39 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 15:56:48 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 15:56:55 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 15:56:56 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 16:37:30 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 16:58:59 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:30:29 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:42:09 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 17:42:11 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:51:27 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 67
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 17:52:10 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29
+ERROR - 2017-11-24 20:05:23 --> Severity: Warning --> in_array() expects parameter 2 to be array, string given /usr/share/nginx/hotelier-jobs/application/views/pc/job/index.php 29

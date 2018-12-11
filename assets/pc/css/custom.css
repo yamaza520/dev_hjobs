@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
+.page-numbers_wrap .pager a {
+    display: inline-block;
+    margin: 0 3px;
+}
+
+#side #form-user-registration .validation.mgnT {
+    margin-top: 0;
+}
+
+#mv .rec_num {
+    margin-bottom: 15px;
+    font-family: 'Noto Sans Japanese', sans-serif;
+    font-size: 33px;
+    color: #fff;
+    text-shadow: 4px 1px 4px rgba(58, 58, 58, 0.7);
+}
+
+#mv .rec_num span {
+    display: inline-block;
+    font-size: 50px;
+    font-style: italic;;
+    padding-top: 48px;
+    text-shadow: 3px 1px 3px rgba(58, 58, 58, 0.5);
+}
+
+.success {
+    background: #fff;
+    color: #469b00;
+    border: 2px solid #55af0b;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.success.mgnT {
+    margin-top: 20px;
+}
+
+.success dt {
+    font-size: 18px;
+}
+
+.success dd {
+    text-align: left;
+}
+
+#footer_form .form_box dl.validation {
+    display: block;
+    border-bottom: 2px solid #e50012;
+    width: auto;
+}
+
+#footer_form .form_box .validation dd {
+    display: block;
+    padding: 0;
+}
+
+#contents.top {
+    padding-top: 50px;
+}
+
+.no-left-pad {
+    padding-left: 0 !important;
+}
+
+.resume_form_text a.add_btn {
+    position: static;
+    float: right;
+}
+
+.mypage .list_favorite_data dl.list dd {
+    width: 75%;
+}
+
+.mypage .working_history .delete_btn {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 1.0;
+    padding: 2px 4px;
+    font-weight: bold;
+    color: #ccc;
+    border: 1px solid #ccc;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 4px;
+    float: right;
+    margin-top: -2px;
+    margin-right: -15px;
+    text-decoration: none;
+}

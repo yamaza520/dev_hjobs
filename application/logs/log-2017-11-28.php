@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-11-28 12:09:35 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 13:13:55 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 13:14:11 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 13:14:19 --> Severity: Warning --> Cannot use a scalar value as an array /usr/share/nginx/hotelier-jobs/application/controllers/Auth.php 311
+ERROR - 2017-11-28 13:14:19 --> Severity: Warning --> Cannot use a scalar value as an array /usr/share/nginx/hotelier-jobs/application/controllers/Auth.php 312
+ERROR - 2017-11-28 13:14:19 --> Severity: Warning --> Cannot use a scalar value as an array /usr/share/nginx/hotelier-jobs/application/controllers/Auth.php 313
+ERROR - 2017-11-28 13:14:19 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 15:30:56 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 15:31:00 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 15:31:03 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 15:31:08 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 15:31:09 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 15:31:10 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 15:35:00 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 16:54:03 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 16:57:46 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 16:57:48 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 19:31:24 --> Could not find the language line "form_validation_required"
+ERROR - 2017-11-28 19:31:24 --> Could not find the language line "form_validation_required"
+ERROR - 2017-11-28 19:31:24 --> Could not find the language line "form_validation_required"
+ERROR - 2017-11-28 19:31:24 --> Could not find the language line "form_validation_required"
+ERROR - 2017-11-28 20:20:10 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 20:20:29 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 20:20:30 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 20:20:54 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 20:32:02 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 20:32:11 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 20:32:21 --> Could not find the language line "login_subheading_email"
+ERROR - 2017-11-28 20:39:22 --> Could not find the language line "create_user_validation_email_label"
+ERROR - 2017-11-28 20:41:06 --> Could not find the language line "create_user_validation_email_label"

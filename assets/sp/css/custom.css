@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
+.recruit .btn_box a.r_btn {
+    color: #e50012;
+    background: #fff url(../img/icon24.png) no-repeat 3px center;
+    font-size:  .75rem;
+    text-align: center;
+    text-indent: 22px;
+}
+
+.recruit .btn_box a.r_btn:hover {
+    color: #fff;
+    background: #e50012 url(../img/icon24_on.png) no-repeat 3px center;
+}
+
+.recruit .btn_box a.l_btn {
+    color: #fff;
+    background: #e50012 url(../img/icon25_on.png) no-repeat 8px center;
+    font-size:  .75rem;
+    text-align: center;
+    text-indent: 22px;
+}
+
+.recruit .btn_box a.l_btn:hover {
+    color: #e50012;
+    background: #fff url(../img/icon25.png) no-repeat 8px center;
+}
+
+.recruit .btn_box a.detail_btn {
+    color: #fff;
+    background: #e50012 url(../img/icon23_on.png) no-repeat 30px center;
+}
+
+.recruit .btn_box a.detail_btn:hover {
+    color: #e50012;
+    background: #fff url(../img/icon23.png) no-repeat 30px center;
+}
+
+.recruit .btn_box a {
+    width: 49%;
+    height: 47px;
+    display: inline-block;
+    border: 2px solid #e50012;
+    border-radius: 6px;
+    font-size: 15px;
+    line-height: 49px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.success {
+    background: #fff;
+    color: #469b00;
+    border: 2px solid #55af0b;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#head ul.head_logout li {
+	float: left;
+	width: 20%;
+	border-left: 1px solid #ccc;
+	box-sizing: border-box;
+}
+.btn_box2 .back_btn input[type="button"]{
+    width: 94%;
+    height: 47px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 47px;
+    border: 2px solid #666;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    cursor: pointer;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -ms-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    opacity: 1;
+    color: #fff;
+    background: #666;
+}
+
+.btn_box2 .back_btn input[type="button"]:hover{
+    background: #fff;
+    color: #666;
+}
+
+.mypage .btn_box2 .back_btn input[type="button"]{
+    border: 1px solid #666;
+}
+
+.mv {
+    background: #eb0000;
+}
+
+.mv span {
+    background: #eb0000;
+    display: inline-block;
+    font-family: 'Noto Sans Japanese', sans-serif;
+    font-size: 1.5rem;
+    color: #fff;
+    text-shadow: 4px 1px 4px rgba(58, 58, 58, 0.7);
+    padding: 30px 10px;
+}
+
+.recruit.detail .subImg.cf {
+    display: none;
+}
+
+.recruit.detail .rec_box .cf.bdr {
+    display: flex;
+
+}
+.recruit.detail .rec_box .box_in.cf {
+    width: 100%;
+
+}
